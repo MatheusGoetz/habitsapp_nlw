@@ -34,9 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online](https://github.com/MatheusGoetz/habitsapp)
+- [Visite o projeto online](https://MatheusGoetz.github.io/habitsapp_nlw)
+
+- [Acesse o projeto finalizado, online](https://github.com/maykbrito/nlw-setup)
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
